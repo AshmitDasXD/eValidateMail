@@ -2,6 +2,14 @@
 
 eValidateMail is a web project that confirm email addresses exist, are non-toxic, and are deliverable. eValidateMail highlights non-existent or undeliverable emails.
 
+### Screenshots for preview
+
+https://github.com/NevilXD/eValidateMail/blob/main/ss1.jpg?raw=true
+
+https://github.com/NevilXD/eValidateMail/blob/main/ss2.jpg?raw=true
+
+https://github.com/NevilXD/eValidateMail/blob/main/ss3.jpg?raw=true
+
 ## Getting Started
 
 To use our email validator, open our eValidateMail webite and put your email then click submit, it will show whether the email address exist, non-toxic, and are deliverable or not.
