@@ -4,7 +4,7 @@ eValidateMail is a web project that confirm email addresses exist, are non-toxic
 
 ## Getting Started
 
-To use our email validator, open our eValidateMail webite and put your email then click submit, it will show whether the email address exist, non-toxic, and are deliverable or not.
+To use our email validator, open our eValidateMail website and put your email then click submit, it will show whether the email address exist, non-toxic, and are deliverable or not.
 
 ### Screenshots for preview
 
