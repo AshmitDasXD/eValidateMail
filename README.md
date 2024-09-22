@@ -4,11 +4,11 @@ eValidateMail is a web project that confirm email addresses exist, are non-toxic
 
 ### Screenshots for preview
 
-https://github.com/NevilXD/eValidateMail/blob/main/ss1.jpg?raw=true
+![ss1](https://github.com/NevilXD/eValidateMail/blob/main/ss1.jpg?raw=true)
 
-https://github.com/NevilXD/eValidateMail/blob/main/ss2.jpg?raw=true
+![ss2](https://github.com/NevilXD/eValidateMail/blob/main/ss2.jpg?raw=true)
 
-https://github.com/NevilXD/eValidateMail/blob/main/ss3.jpg?raw=true
+![ss3](https://github.com/NevilXD/eValidateMail/blob/main/ss3.jpg?raw=true)
 
 ## Getting Started
 
