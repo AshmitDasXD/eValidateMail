@@ -11,7 +11,7 @@ To use our email validator, open our eValidateMail webite and put your email the
 * [EmailValidation.io](https://emailvalidation.io/) - EmailValidation.io is a awesome email validator API.
 * [HTML](https://en.wikipedia.org/wiki/HTML) - I used HTML in eValidateMail to make CSS and JS file work in the website and also to make a skeleton of the website.
 * [CSS](https://en.wikipedia.org/wiki/CSS) - I used CSS for adding awesome and attractive designs to our website.
-* [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - I used JavaScript to make eValidateMail work perfect.
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - I used JavaScript to make eValidateMail work logically perfect.
 
 ## Contributing
 
@@ -33,4 +33,4 @@ See also the list of [contributors](https://github.com/NevilXD/eValidateMail/con
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/NevilXD/eValidateMail/blob/9d233e7b6d750cabfdbffcfa5c58c101f5193562/LICENSE)) file for more details.
